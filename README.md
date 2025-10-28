@@ -103,6 +103,8 @@ sudo npm install
 > O gerador `yo @microsoft/sharepoint` pode falhar silenciosamente sem exibir erros,
 > o que pode resultar em problemas de dependências durante o build ou o serve.
 
+## ⚠️ **Importante! Não existe mais desenvolvimento local, apenas hospedado**
+
 ## 3) Desenvolvimento (Workbench hospedado)
 
 ### Configurar `serve.json`
