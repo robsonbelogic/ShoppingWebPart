@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "shopping-web-part-client-side-solution",
+    "id": "62d9c59a-fc88-4313-aa91-f61b9573e1c7",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "shopping-web-part description"
+      },
+      "longDescription": {
+        "default": "shopping-web-part description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "shopping-web-part Feature",
+        "description": "The feature that activates elements of the shopping-web-part solution.",
+        "id": "8ff99e07-71eb-4e23-83a3-ac96d67a3ef4",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/shopping-web-part.sppkg"
+  }
+}
