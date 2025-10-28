@@ -153,6 +153,7 @@ sharepoint/solution/exemple.sppkg
 2. Faça **Upload** do `.sppkg`
 3. Marque **“Make this solution available to all sites in the organization”**
 4. Aprove permissões (se solicitado)
+5. Mais informações sobre o deploy estão disponíveis no arquivo Deploy_readme
 
 ---
 
