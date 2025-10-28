@@ -1,6 +1,6 @@
 import * as React from "react";
 import styles from "./ShoppingProductView.module.scss";
-import img1 from "../assets/imgs/casabb.png";
+import img1 from "../assets/imgs/casa-praia.jpg";
 
 type Product = {
   imageUrl: string;
